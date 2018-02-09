@@ -1,4 +1,4 @@
-du_soong:
+screwd_soong:
 	$(hide) mkdir -p $(dir $@)
 	$(hide) (\
 	echo '{'; \
